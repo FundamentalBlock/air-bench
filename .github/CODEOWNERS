@@ -1,0 +1,17 @@
+# Default reviewer for anything not listed below
+*                     @FundamentalBlock
+
+/airbench/core/       @SaanviMammai
+/tasks/track_a/       @SaanviMammai
+
+/airbench/workloads/  @akivan2005
+/airbench/platforms/  @akivan2005
+/tasks/track_b/       @akivan2005
+
+/airbench/runner/     @ChrisFrias02
+/airbench/baselines/  @ChrisFrias02
+/airbench/agents/     @ChrisFrias02
+/tasks/track_c/       @ChrisFrias02
+
+/docs/                @FundamentalBlock
+/spec/                @FundamentalBlock
